@@ -3,9 +3,9 @@
 </div>  
   
 
-### <div align="center">Hi there! My name is Wesley Hughes, and I am a Full Stack Software Development apprentice at Nashville Software School. I have experience with several programming languages, including Javascript, React, HTML, CSS, Python, and SQL.
+### <div align="center">👋 My name is Wesley Hughes, and I am a Full Stack Software Development apprentice at Nashville Software School💻 . I have experience with several programming languages, including Javascript, React, HTML, CSS, Python, and SQL.
 
-When I’m not coding, I enjoy spending time outdoors with my dog Poppy. I am an avid hiker and am currently cultivating a moss garden, as I am passionate about biophilic design.
+When I’m not coding, I enjoy spending time outdoors with my dog Poppy 🐕‍🦺. I am an avid hiker and am currently cultivating a moss garden, as I am passionate about biophilic design.
 
 One thing that really drives me in my work is collaboration. I enjoy working with others to solve problems and create innovative solutions.
 
