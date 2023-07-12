@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNiN2JkMzE2NTFjNzhhZGRlOGFkYzI3N2Y3MmFkZTJmYmI2NGUwNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/6PcW0okC92ahCXg8ka/giphy.gif" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">👋 My name is Wesley Hughes, and I am a Full Stack Software Development apprentice at Nashville Software School . I have experience with several programming languages, including Javascript, React, HTML, CSS, Python, and SQL.
