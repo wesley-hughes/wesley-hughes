@@ -9,13 +9,7 @@ One thing that really drives me in my work is collaboration. I enjoy working wit
 
 
 Thanks for visiting my GitHub page! If you have any questions or would like to connect, feel free to reach out on LinkedIn-- linked below.</div>  
-  
-
-- 🔭 I’m currently working on my first, large full-stack group project, Rare Publishing Platform. We are building an API service with Python, and using SQL to manage the permanent state in the database.  
-  
-
-- 🌱 I’m currently learning Python & SQL  
-  
+ 
 
 <br/>  
 
