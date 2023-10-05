@@ -28,6 +28,7 @@ I appreciate you stopping by my GitHub profile. Let's connect and create somethi
 
 ### GhostPen
 https://ghostpen.live
+
 AI Powered Personal Correspondence Ghostwriter
 
 GhostPen simplifies letter writing through the power of AI. Users can manage contacts, customize bios, and dictate the tone, length, and purpose of their letters. These inputs, when sent to our AI API, result in well-crafted correspondence. Features include saving, editing, and copying to clipboard for easy sharing.
@@ -37,6 +38,7 @@ Tech Stack: HTML, CSS, JS, React, Python, Django, Material UI, OpenAI
 
 ### Magic Menu
 https://magicmenu.online
+
 Weekly Menu Generator
 
 MagicMenu revolutionizes meal planning by generating a weekly menu at the click of a button. No more decision fatigue; get a diversified, weekly recipe lineup that aligns with user dietary preferences. Each menu can be saved for repeat use, and favorite recipes can be bookmarked for quick access.
