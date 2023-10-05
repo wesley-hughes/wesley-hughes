@@ -23,6 +23,26 @@ I appreciate you stopping by my GitHub profile. Let's connect and create somethi
 
 <br/>  
 
+## Projects
+<div align="center">
+
+### GhostPen
+AI Powered Personal Correspondence Ghostwriter
+
+GhostPen simplifies letter writing through the power of AI. Users can manage contacts, customize bios, and dictate the tone, length, and purpose of their letters. These inputs, when sent to our AI API, result in well-crafted correspondence. Features include saving, editing, and copying to clipboard for easy sharing.
+
+Tech Stack: HTML, CSS, JS, React, Python, Django, Material UI, OpenAI
+![ghostpen](https://github.com/wesley-hughes/wesley-hughes/assets/115202706/dfc15d42-7d59-4e9b-a285-0fbaba539275)
+
+### Magic Menu
+Weekly Menu Generator
+
+MagicMenu revolutionizes meal planning by generating a weekly menu at the click of a button. No more decision fatigue; get a diversified, weekly recipe lineup that aligns with user dietary preferences. Each menu can be saved for repeat use, and favorite recipes can be bookmarked for quick access.
+
+Tech Stack: HTML, CSS, JS, React, Tailwind, DaisyUI
+![magicmenu](https://github.com/wesley-hughes/wesley-hughes/assets/115202706/7dc6e6c6-d6f6-48e2-91ee-7bb3b57ea291)
+</div>
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/wesley-hughes" target="_blank">
