@@ -27,7 +27,7 @@ I appreciate you stopping by my GitHub profile. Let's connect and create somethi
 <div align="center">
 
 ### GhostPen
-https://ghostpen.live
+http://ghostpen.live
 
 AI Powered Personal Correspondence Ghostwriter
 
@@ -37,7 +37,7 @@ Tech Stack: HTML, CSS, JS, React, Python, Django, Material UI, OpenAI
 ![ghostpen](https://github.com/wesley-hughes/wesley-hughes/assets/115202706/dfc15d42-7d59-4e9b-a285-0fbaba539275)
 
 ### Magic Menu
-https://magicmenu.online
+http://magicmenu.online
 
 Weekly Menu Generator
 
