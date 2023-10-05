@@ -1,18 +1,12 @@
+### <div align="center">👋 Hi, I'm Wesley Hughes, a Full Stack Software Developer with a deep-rooted interest in creating immersive web experiences. I specialize in JavaScript, React, Python, SQL, and intricate web animations.
 
-  
+At Sparky Unicorn, my partnership has allowed me to dive into design-centric challenges, enabling users to navigate our content in visually appealing and dynamic ways. My latest achievements include mastering on-scroll animations using the Intersection Observer API and introducing a captivating parallax effect, enhancing our site's narrative.
 
-### <div align="center">👋 My name is Wesley Hughes, and I am a Full Stack Software Development apprentice at Nashville Software School . I have experience with several programming languages, including Javascript, React, HTML, CSS, Python, and SQL.
+While tools like Tailwind CSS and Material UI have their strengths, I've embraced CSS and styled-components for their flexibility, enabling me to craft custom and conflict-free designs.
 
-When I’m not coding, I enjoy spending time outdoors with my dog Poppy. I am an avid hiker and am currently cultivating a moss garden, as I am passionate about biophilic design.
+I appreciate you stopping by my GitHub profile. Let's connect and create something extraordinary together!</div> 
 
-One thing that really drives me in my work is collaboration. I enjoy working with others to solve problems and create innovative solutions.
-
-
-Thanks for visiting my GitHub page! If you have any questions or would like to connect, feel free to reach out on LinkedIn-- linked below.</div>  
- 
-
-<br/>  
-
+<br/>
 
 ## My Skill Set   
 <div align="center">  
@@ -27,9 +21,7 @@ Thanks for visiting my GitHub page! If you have any questions or would like to c
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
-
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -40,20 +32,16 @@ Thanks for visiting my GitHub page! If you have any questions or would like to c
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wesley-hughes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=wesley-hughes&&style=flat-square" align="center" />
 </div>  
-  
 
-<br />
+<br/>
